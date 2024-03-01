@@ -1,0 +1,29 @@
+{
+  "name": "project-x-tea",
+  "description": "project x tea",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://www.google.com/",
+  "repository": {
+    "url": "https://github.com/haiban99200/project-x-tea"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "x",
+    "project",
+    "oss",
+    "testnet",
+    "package"
+  ],
+  "author": "haiban99200",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
