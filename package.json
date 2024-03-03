@@ -6,6 +6,10 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://www.google.com/",
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
   "repository": {
     "url": "https://github.com/haiban99200/project-x-tea"
   },
